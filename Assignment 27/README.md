@@ -3,18 +3,10 @@
 
 # Image Processing
 
-# Assignment 26
-# **chess-Bord**
-![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2026/chess-Bord.jpg)
-# **dark and light color**
-![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2026/1.jpg)
-# **Rotate the image 180**
-![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2026/happy.jpg)
-# **first_name**
-![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2026/first_name_2.jpg)
-# **Generate**
-![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2026/Generate.jpg)
-# **Death symbol**
-![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2026/death_symbol.jpg)
+# Assignment 27
+# **Make the batman logo**
+![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2027/output/snowy_wolf.jpg)
+# **Write a color**
+![screen shot](https://github.com/Mohammadnematizade/image_processing/blob/main/Assignment%2027/output/4.mp4)
 
 
