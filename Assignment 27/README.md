@@ -8,4 +8,4 @@
 # **Make the batman logo**
 ![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2027/output/snowy_wolf.jpg)
 # **Write a color**
-https://github.com/Mohammadnematizade/image_processing/blob/main/Assignment%2027/output/4.mp4?raw=true
+https://github.com/Mohammadnematizade/image_processing/raw/main/Assignment%2027/output/4.mp4
