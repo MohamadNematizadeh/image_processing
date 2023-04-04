@@ -4,17 +4,19 @@
 # Image Processing
 
 # Assignment 26
-# **chess-Bord**
+## **chess-Bord**
 ![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2026/chess-Bord.jpg)
-# **dark and light color**
+## **dark and light color**
 ![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2026/1.jpg)
-# **Rotate the image 180**
+## **Rotate the image 180**
 ![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2026/happy.jpg)
-# **first_name**
+## **first_name**
 ![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2026/first_name_2.jpg)
-# **Generate**
+## **Generate**
 ![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2026/Generate.jpg)
-# **Death symbol**
+## **Death symbol**
 ![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2026/death_symbol.jpg)
-
+# Assignment 28
+## **fotbal**
+![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2028/football%20pitch/football%20pitch.png)
 
