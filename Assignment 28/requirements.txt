@@ -1,0 +1,3 @@
+opencv
+cvzone
+keyboard
