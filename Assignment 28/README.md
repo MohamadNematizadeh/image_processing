@@ -13,5 +13,5 @@ python football_pitch
 python fas_cats
 ```
 ## Result
-#1- **fotbal**
+#  **fotbal**
 ![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2028/football%20pitch/football%20pitch.png)
