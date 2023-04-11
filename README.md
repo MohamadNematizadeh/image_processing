@@ -16,7 +16,23 @@
 ![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2026/Generate.jpg)
 ## **Death symbol**
 ![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2026/death_symbol.jpg)
+
 # Assignment 28
 ## **fotbal**
 ![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2028/football%20pitch/football%20pitch.png)
+# **Background_estimation**
+![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment29/output/Background_estimation.jpg)
+
+
+# Assignment 29
+# **Face Morphing**
+![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment29/output/image_Obama_and_Joe_Biden.jpg)
+# **Photo to Sketch**
+![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment29/output/result_skerch.jpg)
+
+# **Find the secret text**
+![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment29/output/Find_the_secret_text.jpg)
+
+# **black holen**
+![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment29/output/result_Black_Hole.jpg)
 
