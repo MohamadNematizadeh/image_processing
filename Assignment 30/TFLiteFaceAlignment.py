@@ -156,7 +156,7 @@ if __name__ == '__main__':
     fa = CoordinateAlignmentModel(
         "weights/coor_2d106.tflite")
 
-    img = cv2.imread("img/1.jpg")
+    img = cv2.imread("input/1.jpg")
     rows,cols,_= img.shape
    
     color = (125, 255, 125)
