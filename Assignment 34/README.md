@@ -3,12 +3,12 @@
 
 # Color image processing
 # **function to convert a color image**
-![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2034/output/function%20to%20convert%20a%20color%20image.png)
+![screen shot]([https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2034/output/function%20to%20convert%20a%20color%20image.png](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2034/output/color_image.jpg))
 
 # **rainbow 🌈**
 ![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2034/output/rainbow.png)
 # **Convert Watermelon 🍉**
-![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2034/output/Convert%20Watermelon%20.jpg)
+![screen shot]([https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2034/output/Convert%20Watermelon%20.jpg](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2034/output/Convert%20Watermelon.png))
 # **Rubik**
 ![screen shot](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2034/output/Rubik.png)
 # **Microsoft logo**
