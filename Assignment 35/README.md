@@ -7,6 +7,7 @@
 ![res](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2035/ouput/logo.png)
 
   # **Media Pipe**
+    > ![original](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2035/ouput/MediaPipe.png)
   
   # **PIL**
   > ![original](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2035/ouput/example_gray.jpg)
