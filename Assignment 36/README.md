@@ -19,6 +19,9 @@
  ![original](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2036/ouput/Blue%20Screen%20Technique.png)
 
 # Change your clothes
+   ![original](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2036/ouput/output_coler.png)
+
+
 
 # Change Spiderman's
  ![original](https://raw.githubusercontent.com/Mohammadnematizade/image_processing/main/Assignment%2036/ouput/result_Spidermans.jpg)   
