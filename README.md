@@ -29,6 +29,7 @@
   ### **Write a color**
   ![alt - Github](https://github.com/Mohammadnematizade/image_processing/blob/8322ce5d879b8153a078cff47bc1f85addf308a4/Assignment%2027/output/4.mp4)
 </details>
+
 ## Assignment 28
 <details>
   <summary>Click to expand!</summary>
